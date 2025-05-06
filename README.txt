@@ -43,7 +43,7 @@ Built as a portfolio project to demonstrate full-stack development skills with a
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/stacksight-dashboard.git
+git clone https://github.com/rodbrice/stacksight-dashboard.git
 cd stacksight-dashboard
 
 
